@@ -1,0 +1,286 @@
+{
+  "id": "d3ceaf0d-cb96-4845-86ac-dc9a14c6ee46",
+  "name": "My First Modpack",
+  "game_version": "0.107.1",
+  "created_by": "choplambchop",
+  "mods": [
+    {
+      "mod_version_id": "0ecd4614-9006-4342-815d-b88f7047368b",
+      "name": "BaseLib",
+      "version": "v3.4.7",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "55863ca6adc30a61a7544874e157a519ffe148ccf2b18025947609c4bff813ce",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.7_6ceb1f4e.zip",
+      "bundle_sha256": "6ceb1f4eb03a17a890b7bb00bcb4111282370403d6e9046628e50352e06fc2fa"
+    },
+    {
+      "mod_version_id": "6c46c6ed-3e8a-4782-99ed-275c581599d6",
+      "name": "DeathNoDelete",
+      "version": "0.0.1",
+      "source": "github:awzhanwu/sts2-DeathNoDelete-Mods",
+      "hash": "6baff3ac99a1ecf087ac21aa2a723b9705b4b8699825d279b59c784ce70a6831",
+      "files": [
+        "DeathNoDelete\\DeathNoDelete.dll",
+        "DeathNoDelete\\mod_manifest.json"
+      ],
+      "folder_name": "DeathNoDelete",
+      "mod_id": "DeathNoDelete",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/DeathNoDelete_v0.0.1_c27c5b58.zip",
+      "bundle_sha256": "c27c5b58fd5e4237d7e644772e44391a94c0230f3a68605522a3f7fee6ec145d"
+    },
+    {
+      "mod_version_id": "32441f69-4be8-4cf8-9eb8-c5badf926af1",
+      "name": "DisplayTheSpire",
+      "version": "0.7.23",
+      "source": "github:CyriaqueCCN/DisplayTheSpire",
+      "hash": "363bf53a8419c57c36342507ddb94d7b86c5648b157865be5dc2624a3cf465d2",
+      "files": [
+        "display_the_spire\\display_the_spire.dll",
+        "display_the_spire\\display_the_spire.pck",
+        "display_the_spire\\locales\\eng.json",
+        "display_the_spire\\locales\\zhs.json",
+        "display_the_spire\\mod_manifest.json"
+      ],
+      "folder_name": "display_the_spire",
+      "mod_id": "display_the_spire",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/DisplayTheSpire_v0.7.23_970fd550.zip",
+      "bundle_sha256": "970fd550c6d2723e5a8052a95bf7b8e5d998eadb8b4c1133f7abe315a1d508a3"
+    },
+    {
+      "mod_version_id": "a2350025-5264-47b5-bbf4-f49183847408",
+      "name": "Minty Spire 2",
+      "version": "v1.1.9",
+      "source": "github:erasels/Minty-Spire-2",
+      "hash": "532ef5ecbad7b1debdcbeaa5b0534d43037b68b3d0883e03ca1f4b902e7fbf14",
+      "files": [
+        "MintySpire2\\MintySpire2.dll",
+        "MintySpire2\\MintySpire2.json",
+        "MintySpire2\\MintySpire2.pck",
+        "MintySpire2\\MintySpire2.pdb"
+      ],
+      "folder_name": "MintySpire2",
+      "mod_id": "MintySpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/Minty_Spire_2_v1.1.9_52b549d3.zip",
+      "bundle_sha256": "52b549d3535e3cfe9e1320793a6df79226e355056d1b75c10c7c924c74dca3b9"
+    },
+    {
+      "mod_version_id": "a83b58ef-f120-411d-87ad-956062d54f88",
+      "name": "Multiplayer Potion View",
+      "version": "0.3.3",
+      "source": "github:BAKAOLC/STS2-MultiPlayerPotionView",
+      "hash": "e29975e163439d6f5ce9aa62cc066351805590e3874d0040ad2f51105fd8f8d1",
+      "files": [
+        "STS2-MultiPlayerPotionView\\mod_manifest.json",
+        "STS2-MultiPlayerPotionView\\STS2-MultiPlayerPotionView.dll"
+      ],
+      "folder_name": "STS2-MultiPlayerPotionView",
+      "mod_id": "STS2-MultiPlayerPotionView",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.3.3_7bad460a.zip",
+      "bundle_sha256": "7bad460a4a8435fc9828a3b5321ac180dc30d2d562d144039da54aa276d61525"
+    },
+    {
+      "mod_version_id": "6b37515d-0813-45a8-a447-ec2f4a618473",
+      "name": "Quick Restart",
+      "version": "v1.0.0",
+      "source": "github:erasels/StS2-Quick-Restart",
+      "hash": "2117bd23634934d5c6dbf57301148bcb6c8e20ba0340f7a8c4cbb9d9567bb515",
+      "files": [
+        "QuickRestart\\QuickRestart.dll",
+        "QuickRestart\\QuickRestart.json",
+        "QuickRestart\\QuickRestart.pck"
+      ],
+      "folder_name": "QuickRestart",
+      "mod_id": "QuickRestart",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/Quick_Restart_v1.0.0_0f3990ec.zip",
+      "bundle_sha256": "0f3990ec85905baa1ea347e3ce36fcc9b38bd54957fcd5a6c0eadfd2edab2cb8"
+    },
+    {
+      "mod_version_id": "e33ba9fc-c4db-4ae3-a4d6-1f1f9ea54041",
+      "name": "rDPS Meter",
+      "version": "0.1.29",
+      "source": "github:Logikable/sts2-rdps-mod",
+      "hash": "dc79ba0baab968f43669c198a7c60af559e836519dcb12a74df76c3202795bd2",
+      "files": [
+        "RdpsMeter\\RdpsMeter.dll",
+        "RdpsMeter\\RdpsMeter.json"
+      ],
+      "folder_name": "RdpsMeter",
+      "mod_id": "RdpsMeter",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/rDPS_Meter_v0.1.29_6db95835.zip",
+      "bundle_sha256": "6db95835b309522e509d163446d4457b3a72b8a0d093b6ef3e7cb3e2721c9cd5"
+    },
+    {
+      "mod_version_id": "7af1ed4a-3de5-4f44-a708-dc32b6d1f12e",
+      "name": "RitsuLib (STS2 0.107.1 compat)",
+      "version": "0.6.2",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "a184e96f67544670d154c4e728aff2c9c68e23c39e33cd218126187bd3516962",
+      "files": [
+        "STS2-RitsuLib\\assets.zip",
+        "STS2-RitsuLib\\compat\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\RitsuLib.References.props",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.xml",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.xml",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.xml",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_107_1_compat._v0.6.2_58b99cd9.zip",
+      "bundle_sha256": "58b99cd9d043e45477f93b0e9374b9ffa26f98e78f0b5bc02c85955154c0a5a2"
+    },
+    {
+      "mod_version_id": "d462003b-1cee-4b39-999c-6c9f655b1400",
+      "name": "RouteSuggest",
+      "version": "1.13.0",
+      "source": "github:jiegec/STS2RouteSuggest",
+      "hash": "0a0760a01441da6b3f6e895c315afe369e177f83b53ca7c730bd0c9bd3640aa0",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck",
+        "RouteSuggest\\RouteSuggestConfig.json"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.13.0_e6a34410.zip",
+      "bundle_sha256": "e6a3441018277d851a63795cd17290a978e8a0bf2f4461c9a6661f0ee67beb25"
+    },
+    {
+      "mod_version_id": "9f26d93a-c22b-4d6f-a635-ad154ab2a6fa",
+      "name": "Show Player Hand Cards",
+      "version": "0.6.2",
+      "source": "github:BAKAOLC/STS2-ShowPlayerHandCards",
+      "hash": "87c102e88a3625f575a7c35927a1b6a67214f372d1d830e63f73d8e4c0dcaa04",
+      "files": [
+        "STS2-ShowPlayerHandCards\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_50d12933.zip",
+      "bundle_sha256": "50d1293366f910c01ed7d03bb021fcf5e2a4e1a088aec022edc1ba215e3d3285"
+    },
+    {
+      "mod_version_id": "311d367a-a5fb-46b1-9c9a-d9e359de5e00",
+      "name": "Slay the Spire 2 Deck Tracker",
+      "version": "1.4.4",
+      "source": "github:999dulgi/sts2decktracker",
+      "hash": "422974287d0100f3a4bf751556db85c5bf2334e79b751d44d44dfe604227e153",
+      "files": [
+        "sts2decktracker\\DeckTracker.cfg",
+        "sts2decktracker\\sts2decktracker.dll",
+        "sts2decktracker\\sts2decktracker.pck",
+        "sts2decktracker\\sts2decktracker_manifest.json"
+      ],
+      "folder_name": "sts2decktracker",
+      "mod_id": "sts2decktracker",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/Slay_the_Spire_2_Deck_Tracker_v1.4.4_d6697bbb.zip",
+      "bundle_sha256": "d6697bbb42dcfb56ed7ef8dc08c0db65a7af4c608687704cb8c54e48f8c9a0e9"
+    },
+    {
+      "mod_version_id": "8d796b4f-f17b-487a-bcce-c512bdb7ae41",
+      "name": "STS Tracker Companion",
+      "version": "1.6.0",
+      "source": "github:JiriPlasek/sts_tracker_mod",
+      "hash": "76af63e08343ee6afdd6243168afb069b43097952bf8a4b5cb79c5d327c07688",
+      "files": [
+        "StsCompanion\\mod_manifest.json",
+        "StsCompanion\\StsCompanion.dll",
+        "StsCompanion\\sts_companion_config.cfg"
+      ],
+      "folder_name": "StsCompanion",
+      "mod_id": "StsCompanion",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/STS_Tracker_Companion_v1.6.0_84bbe739.zip",
+      "bundle_sha256": "84bbe739bb8911ed1e49428dfd764af8a90506c8139ece0560af1e9abf76cc1b"
+    },
+    {
+      "mod_version_id": "4c6796b6-98fd-4640-af9a-e25015cad7d9",
+      "name": "Timeline",
+      "version": "0.1.0",
+      "source": "github:sts2mods/Timeline",
+      "hash": "dd6a1f9a17207237a3ff8cb9f2b2e94657135c27555de9313539deac8d7141d5",
+      "files": [
+        "Timeline\\mod_manifest.json",
+        "Timeline\\Timeline.dll"
+      ],
+      "folder_name": "Timeline",
+      "mod_id": "Timeline",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/Timeline_v0.1.0_dfe41385.zip",
+      "bundle_sha256": "dfe413851aea62117236da4a0f34dd10206baa388679b114187c71703f31ab36"
+    },
+    {
+      "mod_version_id": "b264d40b-314b-4482-9e89-a4e1c58cf329",
+      "name": "VanillaSaves",
+      "version": "v0.1.1",
+      "source": "github:waze3174/VanillaSaves-StS2-Public",
+      "hash": "9382737828bf2eeaa711d1906772849f7e8e8dd0228899813637c2af51a141ff",
+      "files": [
+        "VanillaSaves\\VanillaSaves.dll",
+        "VanillaSaves\\VanillaSaves.json"
+      ],
+      "folder_name": "VanillaSaves",
+      "mod_id": "VanillaSaves",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/VanillaSaves_v0.1.1_5eddebe1.zip",
+      "bundle_sha256": "5eddebe12a80576e1649b455aeb19018256850263b76994134b123b096b1b654"
+    },
+    {
+      "mod_version_id": "207b32bf-2001-4999-9c81-8c2c31e2621a",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/choplambchop/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
+      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    }
+  ],
+  "created_at": "2026-09-28T13:45:16.643813Z",
+  "updated_at": "2026-09-28T13:45:16.857443600Z",
+  "public": false
+}
